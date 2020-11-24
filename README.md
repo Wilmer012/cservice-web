@@ -42,7 +42,7 @@ because we can only help you install the site, but never modify the code that th
 	 
 	 gnuworld@ircd:~/gnuworld$ su
 	 root@ircd:~# cd /var/www/html/
-         root@ircd:/var/www/html#
+	 root@ircd:/var/www/html#
 	 root@ircd:/var/www/html# chmod 711 ~gnuworld
   	 root@ircd:/var/www/html# chmod 711 ~gnuworld/cservice-web
   	 root@ircd:/var/www/html# chmod 755 ~gnuworld/cservice-web/php_includes
