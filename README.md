@@ -1,8 +1,7 @@
 # cservice-web
 Installation guide
 --------------------------------------------------------------------------
-		Test OS: Ubuntu 20.04.1 LTS \n \l - Server
-			[ by: ARI3L | rVn | y2k ]
+		Ubuntu 20.04.1 LTS \n \l - Server
 --------------------------------------------------------------------------
 Pay attention to the following: If any cservice-web module does not respond 
 or gives you problems, you should ask the official Undernet network coders,
